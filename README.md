@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Samiksha Kshirsagar
 
-<!--
-**samikshakshirsagar214-cmd/samikshakshirsagar214-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer | Generative AI | Python
 
-Here are some ideas to get you started:
+I am a B.Tech student specializing in Robotics and Artificial Intelligence with hands-on experience in Machine Learning, Deep Learning, and Generative AI. I have built end-to-end ML and RAG-based applications using LangChain, LLMs, and vector databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Skills:
+Python, Machine Learning, Deep Learning, ANN, RNN, Generative AI, LangChain, RAG, LLMs, Hugging Face, Streamlit, Scikit-learn
+
+🔹 Featured Projects:
+• LIC Smart Assistant (GenAI + RAG)
+• ANN Customer Churn Prediction
+• YouTube & Website Summarizer
+
+🔹 Career Interest:
+Machine Learning Engineer | AI Engineer | GenAI Engineer
+
+📌 Resume and project demos available on request
+
